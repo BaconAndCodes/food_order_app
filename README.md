@@ -34,9 +34,6 @@ In this GitHub repository, you'll find:
 
 I'm open to collaboration and welcome developers, designers, and anyone passionate about food tech to join me on this journey. Whether you're a seasoned pro or just starting your coding adventure, there's a place for you here. Let's create something amazing together!
 
-### Contact
-
-If you have any questions, ideas, or just want to chat about food and technology, don't hesitate to reach out. You can contact me through [email/LinkedIn/other contact info] or open an issue here on GitHub.
 
 Thank you for joining me on this exciting journey. Let's build the future of food ordering together! 🍕📱🚀
 
