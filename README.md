@@ -1,6 +1,4 @@
-Certainly! Here's an introduction you can use for your GitHub README to describe your journey of learning and developing a food ordering app:
 
----
 
 # FoodOrder App
 
